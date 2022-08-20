@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/assign4ContactTracing/assign4DijkstraContactTracingTester.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+contactTracing.h
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/assign4ContactTracing/contactTracing.h
+
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/assign4ContactTracing/contactTracing.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+contactTracing.h
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/assign4ContactTracing/contactTracing.h
+time.h
+-
+
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/assign4ContactTracing/contactTracing.h
+

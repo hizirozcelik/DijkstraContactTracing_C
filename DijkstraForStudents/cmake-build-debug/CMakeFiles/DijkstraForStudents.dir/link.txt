@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DijkstraForStudents.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\DijkstraForStudents.dir/objects.a @CMakeFiles\DijkstraForStudents.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\DijkstraForStudents.dir/objects.a -Wl,--no-whole-archive  -o DijkstraForStudents.exe -Wl,--out-implib,libDijkstraForStudents.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DijkstraForStudents.dir\linklibs.rsp

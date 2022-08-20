@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" -S "/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/assign4ContactTracing" -B "/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/assign4ContactTracing/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/assign4ContactTracing/cmake-build-debug

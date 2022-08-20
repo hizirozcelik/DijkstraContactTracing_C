@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Data/CollegeSheridan/2021AWinter/prog20799/code/week12/DijkstraForStudents/dijkstra.h
+
+C:/Data/CollegeSheridan/2021AWinter/prog20799/code/week12/DijkstraForStudents/dijkstraClient.c
+stdio.h
+-
+dijkstra.h
+C:/Data/CollegeSheridan/2021AWinter/prog20799/code/week12/DijkstraForStudents/dijkstra.h
+
